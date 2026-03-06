@@ -1,6 +1,7 @@
 [
 	{
 		"page": "Exam-calendar-generator",
+		"url": "fetuzla.github.io/Exam-calendar-generator/",
 		"contributors": [
 			"SenadM02",
 			"adnanm20"
@@ -8,6 +9,15 @@
 	},
 	{
 		"page": "ScheduleGenerator",
+		"url": "fetuzla.github.io/ScheduleGenerator/",
+		"contributors": [
+			"SenadM02",
+			"adnanm20"
+		]
+	},
+	{
+		"page": "ScheduleEditor",
+		"url": "raspored.adnanmaleskic.com",
 		"contributors": [
 			"SenadM02",
 			"adnanm20"
