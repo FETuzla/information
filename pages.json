@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Exam-calendar-generator",
+		"name": "Generator rasporeda ispita",
 		"url": "https://fetuzla.github.io/Exam-calendar-generator/",
 		"visible": true,
 		"contributors": [
@@ -9,7 +9,7 @@
 		]
 	},
 	{
-		"name": "ScheduleGenerator",
+		"name": "Generator rasporeda nastave",
 		"url": "https://fetuzla.github.io/ScheduleGenerator/",
 		"visible": true,
 		"contributors": [
